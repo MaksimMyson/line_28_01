@@ -4,10 +4,18 @@
     <Filter Include="main">
       <UniqueIdentifier>{5e247451-ca06-4282-9ee9-2050b8b9d5fb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="smart_pointer">
+      <UniqueIdentifier>{a37fa520-d819-446b-9dde-255c266a860b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>main</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="smart_pointer.h">
+      <Filter>smart_pointer</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
